@@ -1,11 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://MBdins.com/index.html</loc>
+		<loc>https://mbdinscomputing.github.xn--io/newwebsite-/page1.html</loc>
 	</url>
 	<url>
-		<loc>http://MBdins.com/page1.html</loc>
+		<loc>https://mbdinscomputing.github.xn--io/newwebsite-/page2.html</loc>
 	</url>
 	<url>
-		<loc>http://MBdins.com/page2.html</loc>
+		<loc>https://mbdinscomputing.github.xn--io/newwebsite-/index.html</loc>
+	</url>
+	<url>
+		<loc>https://mbdinscomputing.github.xn--io/newwebsite-/page3.html</loc>
 	</url>
 </urlset>
