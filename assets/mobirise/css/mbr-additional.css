@@ -3038,13 +3038,17 @@ body {
   color: #ffffff;
 }
 .cid-qQDMMVESIV {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 105px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-qQDMMVESIV .mbr-text,
 .cid-qQDMMVESIV blockquote {
   color: #767676;
+}
+.cid-qQDMMVESIV .mbr-text {
+  color: #232323;
+  text-align: center;
 }
 .cid-qOC09UZbLz {
   padding-top: 90px;
